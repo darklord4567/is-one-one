@@ -92,7 +92,7 @@ This wall regenerates automatically whenever contributions are merged.
 
 <div align="center">
 
-### 20 Contributors
+### 22 Contributors
 
 <table>
 <tr><td align="center">
@@ -108,6 +108,13 @@ style="border-radius:50%;margin:4px"/><br/>
 style="border-radius:50%;margin:4px"/><br/>
 <sub><b>Pranav-MSK</b></sub><br/>
 <sub>8 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/AdarshSingh-25">
+<img src="https://avatars.githubusercontent.com/u/179004678?v=4&s=64" width="52" height="52" alt="AdarshSingh-25"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>AdarshSingh-25</b></sub><br/>
+<sub>6 commits</sub>
 </a>
 </td><td align="center">
 <a href="https://github.com/PojashriJM">
@@ -138,6 +145,13 @@ style="border-radius:50%;margin:4px"/><br/>
 <sub>2 commits</sub>
 </a>
 </td><td align="center">
+<a href="https://github.com/darklord4567">
+<img src="https://avatars.githubusercontent.com/u/150497513?v=4&s=64" width="52" height="52" alt="darklord4567"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>darklord4567</b></sub><br/>
+<sub>2 commits</sub>
+</a>
+</td><td align="center">
 <a href="https://github.com/nova1265">
 <img src="https://avatars.githubusercontent.com/u/283646481?v=4&s=64" width="52" height="52" alt="nova1265"
 style="border-radius:50%;margin:4px"/><br/>
@@ -165,7 +179,7 @@ style="border-radius:50%;margin:4px"/><br/>
 <sub><b>MakarandDeore3009</b></sub><br/>
 <sub>1 commits</sub>
 </a>
-</td><td align="center">
+</td></tr><tr><td align="center">
 <a href="https://github.com/Vishwaruban-S">
 <img src="https://avatars.githubusercontent.com/u/217449508?v=4&s=64" width="52" height="52" alt="Vishwaruban-S"
 style="border-radius:50%;margin:4px"/><br/>
@@ -179,7 +193,7 @@ style="border-radius:50%;margin:4px"/><br/>
 <sub><b>Xenon010101</b></sub><br/>
 <sub>1 commits</sub>
 </a>
-</td></tr><tr><td align="center">
+</td><td align="center">
 <a href="https://github.com/githubuser16384">
 <img src="https://avatars.githubusercontent.com/u/117111471?v=4&s=64" width="52" height="52" alt="githubuser16384"
 style="border-radius:50%;margin:4px"/><br/>
