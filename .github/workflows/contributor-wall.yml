@@ -2,7 +2,7 @@ name: Update Contributor Wall
 
 on:
   push:
-    branches: [main]
+    branches: [Test]
   schedule:
     - cron: "0 2 * * *"
   workflow_dispatch:
