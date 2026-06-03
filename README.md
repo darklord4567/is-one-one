@@ -89,27 +89,159 @@ Everyone who has helped prove that **1 is still 1**.
 This wall regenerates automatically whenever contributions are merged.
 
 <!-- CONTRIBUTOR-WALL-START -->
+
 <div align="center">
 
-### 0 Contributors
+### 20 Contributors
 
 <table>
-<tr>
-<td align="center">
-  <a href="https://github.com/itsdakshjain">
-    <img src="https://avatars.githubusercontent.com/itsdakshjain?s=64" width="52" height="52" alt="itsdakshjain" style="border-radius:50%;margin:4px"/>
-    <br/>
-    <sub><b>itsdakshjain</b></sub>
-    <br/>
-    <sub>Maintainer</sub>
-  </a>
-</td>
-</tr>
+<tr><td align="center">
+<a href="https://github.com/itsdakshjain">
+<img src="https://avatars.githubusercontent.com/u/177980054?v=4&s=64" width="52" height="52" alt="itsdakshjain"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>itsdakshjain</b></sub><br/>
+<sub>78 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/Pranav-MSK">
+<img src="https://avatars.githubusercontent.com/u/192725589?v=4&s=64" width="52" height="52" alt="Pranav-MSK"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>Pranav-MSK</b></sub><br/>
+<sub>8 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/PojashriJM">
+<img src="https://avatars.githubusercontent.com/u/217706978?v=4&s=64" width="52" height="52" alt="PojashriJM"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>PojashriJM</b></sub><br/>
+<sub>5 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/roshniinh">
+<img src="https://avatars.githubusercontent.com/u/274662214?v=4&s=64" width="52" height="52" alt="roshniinh"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>roshniinh</b></sub><br/>
+<sub>4 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/riffpointer">
+<img src="https://avatars.githubusercontent.com/u/261115856?v=4&s=64" width="52" height="52" alt="riffpointer"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>riffpointer</b></sub><br/>
+<sub>2 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/ShaistaAfreen09">
+<img src="https://avatars.githubusercontent.com/u/97823364?v=4&s=64" width="52" height="52" alt="ShaistaAfreen09"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>ShaistaAfreen09</b></sub><br/>
+<sub>2 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/nova1265">
+<img src="https://avatars.githubusercontent.com/u/283646481?v=4&s=64" width="52" height="52" alt="nova1265"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>nova1265</b></sub><br/>
+<sub>2 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/AdityaSingh1531">
+<img src="https://avatars.githubusercontent.com/u/228319820?v=4&s=64" width="52" height="52" alt="AdityaSingh1531"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>AdityaSingh1531</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/algojogacor">
+<img src="https://avatars.githubusercontent.com/u/239139125?v=4&s=64" width="52" height="52" alt="algojogacor"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>algojogacor</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/MakarandDeore3009">
+<img src="https://avatars.githubusercontent.com/u/178594686?v=4&s=64" width="52" height="52" alt="MakarandDeore3009"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>MakarandDeore3009</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/Vishwaruban-S">
+<img src="https://avatars.githubusercontent.com/u/217449508?v=4&s=64" width="52" height="52" alt="Vishwaruban-S"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>Vishwaruban-S</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/Xenon010101">
+<img src="https://avatars.githubusercontent.com/u/143032263?v=4&s=64" width="52" height="52" alt="Xenon010101"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>Xenon010101</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td></tr><tr><td align="center">
+<a href="https://github.com/githubuser16384">
+<img src="https://avatars.githubusercontent.com/u/117111471?v=4&s=64" width="52" height="52" alt="githubuser16384"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>githubuser16384</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/Gyanano">
+<img src="https://avatars.githubusercontent.com/u/82562473?v=4&s=64" width="52" height="52" alt="Gyanano"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>Gyanano</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/himanshi-0070">
+<img src="https://avatars.githubusercontent.com/u/197472732?v=4&s=64" width="52" height="52" alt="himanshi-0070"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>himanshi-0070</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/ishwari418">
+<img src="https://avatars.githubusercontent.com/u/182065330?v=4&s=64" width="52" height="52" alt="ishwari418"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>ishwari418</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/kavita-bande2006">
+<img src="https://avatars.githubusercontent.com/u/246960698?v=4&s=64" width="52" height="52" alt="kavita-bande2006"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>kavita-bande2006</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/Pavan6559">
+<img src="https://avatars.githubusercontent.com/u/202332637?v=4&s=64" width="52" height="52" alt="Pavan6559"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>Pavan6559</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/pxlman">
+<img src="https://avatars.githubusercontent.com/u/71288979?v=4&s=64" width="52" height="52" alt="pxlman"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>pxlman</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/volatilespectre">
+<img src="https://avatars.githubusercontent.com/u/285335247?v=4&s=64" width="52" height="52" alt="volatilespectre"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>volatilespectre</b></sub><br/>
+<sub>1 commits</sub>
+</a>
+</td></tr>
 </table>
 
-*Auto-updated daily · View all contributors on GitHub*
+*Auto-updated daily · <a href="https://github.com/Py-Contributors/is-one-one/graphs/contributors">View all →</a>*  # noqa: E501
 
 </div>
+
 <!-- CONTRIBUTOR-WALL-END -->
 
 
