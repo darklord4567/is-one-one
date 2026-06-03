@@ -1,10 +1,17 @@
 name: Update Contributor Wall
 
 on:
+  # Runs after every commit pushed to main
+  # and after every PR merged into main
   push:
-    branches: [Test]
+    branches:
+      - Test
+
+  # Daily refresh
   schedule:
     - cron: "0 2 * * *"
+
+  # Manual trigger
   workflow_dispatch:
 
 concurrency:
