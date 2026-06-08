@@ -114,7 +114,7 @@ style="border-radius:50%;margin:4px"/><br/>
 <img src="https://avatars.githubusercontent.com/u/150497513?v=4&s=64" width="52" height="52" alt="darklord4567"
 style="border-radius:50%;margin:4px"/><br/>
 <sub><b>darklord4567</b></sub><br/>
-<sub>7 commits</sub>
+<sub>8 commits</sub>
 </a>
 </td><td align="center">
 <a href="https://github.com/AdarshSingh-25">
