@@ -96,17 +96,17 @@ This wall regenerates automatically whenever contributions are merged.
 
 <table>
 <tr><td align="center">
-<a href="https://github.com/itsdakshjain">
-<img src="https://avatars.githubusercontent.com/u/177980054?v=4&s=64" width="52" height="52" alt="itsdakshjain"
-style="border-radius:50%;margin:4px"/><br/>
-<sub><b>itsdakshjain</b></sub><br/>
-<sub>78 commits</sub>
-</a>
-</td><td align="center">
 <a href="https://github.com/darklord4567">
 <img src="https://avatars.githubusercontent.com/u/150497513?v=4&s=64" width="52" height="52" alt="darklord4567"
 style="border-radius:50%;margin:4px"/><br/>
 <sub><b>darklord4567</b></sub><br/>
+<sub>79 commits</sub>
+</a>
+</td><td align="center">
+<a href="https://github.com/itsdakshjain">
+<img src="https://avatars.githubusercontent.com/u/177980054?v=4&s=64" width="52" height="52" alt="itsdakshjain"
+style="border-radius:50%;margin:4px"/><br/>
+<sub><b>itsdakshjain</b></sub><br/>
 <sub>78 commits</sub>
 </a>
 </td><td align="center">
